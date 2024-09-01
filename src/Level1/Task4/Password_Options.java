@@ -6,7 +6,8 @@ public class Password_Options {
 	String lowerCaseLetters = "abcdefghijklmnopqrstuvwxyz";
 	String numbersString = "0123456789";
 	String specialCharsString = "!@#$%^&*()_+-=[]{}|;':\",./<>?";
-	int k;
+	
+	int k;  // this instance is used for equally generate the password with the user options
 	
 	boolean numbers,uppercase,lowercase,specialchars;
 	

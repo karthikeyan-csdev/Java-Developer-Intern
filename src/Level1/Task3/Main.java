@@ -1,5 +1,5 @@
 /*
- Level-3     Task-3: Student Grade Calculator
+ Level-1     Task-3: Student Grade Calculator
 
 Description: create a program that calculates and displays the average grade of
 a student. Prompt the user to enter the number of grades to be entered, and then
